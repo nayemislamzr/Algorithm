@@ -1,0 +1,1 @@
+{"name":"Local: toposorting","url":"g:\\Algo-academic\\practice\\toposorting.cpp","tests":[{"id":1653149557155,"input":"6\n6\n5 0\n4 0\n4 1\n3 1\n2 3\n5 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Algo-academic\\practice\\toposorting.cpp","group":"local","local":true}

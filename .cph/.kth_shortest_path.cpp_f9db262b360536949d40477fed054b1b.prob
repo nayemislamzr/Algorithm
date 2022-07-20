@@ -1,0 +1,1 @@
+{"name":"Local: kth_shortest_path","url":"g:\\Algo-academic\\kth_shortest_path.cpp","tests":[{"id":1658057246483,"input":"1\n4 6 3\n1 2 1\n1 3 3\n2 3 2\n3 2 8\n2 4 6\n3 4 1\n1 4","output":"4 4 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Algo-academic\\kth_shortest_path.cpp","group":"local","local":true}

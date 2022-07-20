@@ -1,0 +1,1 @@
+{"name":"Local: dijsktra","url":"g:\\Algo-academic\\shortest_path\\dijsktra.cpp","tests":[{"id":1653024898101,"input":"4 4\n1 2 24\n1 4 20\n3 1 3\n4 3 12\n1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Algo-academic\\shortest_path\\dijsktra.cpp","group":"local","local":true}

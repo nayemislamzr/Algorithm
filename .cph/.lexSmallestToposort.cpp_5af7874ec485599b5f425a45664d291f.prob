@@ -1,0 +1,1 @@
+{"name":"Local: lexSmallestToposort","url":"g:\\Algo-academic\\lexSmallestToposort.cpp","tests":[{"id":1653015217486,"input":"6\n6\n6 1\n5 1\n5 2\n4 2\n3 4\n6 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Algo-academic\\lexSmallestToposort.cpp","group":"local","local":true}

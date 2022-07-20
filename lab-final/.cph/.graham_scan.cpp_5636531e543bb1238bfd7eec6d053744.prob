@@ -1,0 +1,1 @@
+{"name":"Local: graham_scan","url":"g:\\Algo-academic\\lab-final\\graham_scan.cpp","tests":[{"id":1658309188257,"input":"8\n0 0\n0 3\n1 1\n1 2\n2 2\n3 3\n3 1\n4 4","output":"0 0\n3 1\n4 4\n0 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Algo-academic\\lab-final\\graham_scan.cpp","group":"local","local":true}

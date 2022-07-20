@@ -1,0 +1,1 @@
+{"name":"Local: prims","url":"g:\\Algo-academic\\lab-final\\prims.cpp","tests":[{"id":1658345254573,"input":"6 8\n0 1 4\n0 2 4\n1 2 2\n2 3 3\n2 4 2\n2 5 4\n3 5 3\n4 5 3","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Algo-academic\\lab-final\\prims.cpp","group":"local","local":true}

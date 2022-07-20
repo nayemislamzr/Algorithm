@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"g:\\Algo-academic\\dp\\lcs.cpp","tests":[{"id":1655345726347,"input":"ABCDGH\nAEDFHR","output":"3"},{"id":1655345962467,"input":"ADABSIAUHQIW\nQWNAJSUAHSA","output":""},{"id":1655345974869,"input":"AABAD\nAAA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Algo-academic\\dp\\lcs.cpp","group":"local","local":true}
